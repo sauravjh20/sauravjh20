@@ -1,172 +1,162 @@
-<!--
-  Thanks for visiting my profile! ✨
-  Feel free to copy/paste and tweak this README as needed.
--->
+<!-- Profile Header -->
+<div align="center">
+  
+  ## 👋 Hi, I'm **Kumar Saurav Jha**
+  ### 🧑‍💻 MS in Computer Science | Software Engineer | Cloud & Full-Stack Developer
+
+  <img src="https://komarev.com/ghpvc/?username=sauravjh20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+  <br /><br />
+
+  <a href="mailto:sauravsdb91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sauravjha20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sauravjh20.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://sauravjh20.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Page-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 MS in Computer Science @ **California State University Channel Islands**
+- 💼 Former **Associate Software Engineer** @ PeopleStrong  
+- ☁️ Cloud + Full-Stack developer with strong backend expertise  
+- 🛠 Experienced in Java, Spring Boot, Angular, AWS, Docker, Kubernetes  
+- 🔥 Passionate about scalable systems, security, and AI-powered applications  
+- 🚀 Actively seeking **Summer 2025 SWE Internships**
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🧩 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🔧 Tools & Others
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-5A9F33?style=for-the-badge&logo=java&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0066CC?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+---
+
+# 📚 Experience
+
+### 🧑‍🏫 Resident Advisor – CSU Channel Islands  
+**2025 – Present**  
+- Mentoring students, building inclusive communities, resolving issues.
+
+### 🖥 IT Student Assistant – Esports Lounge (CSUCI)  
+- Hardware/software troubleshooting, system maintenance, authentication fixes.
+
+### 🛫 Aviation Protection Officer – Perth Airport  
+**2023 – 2024**  
+- Security screening, risk assessment, anomaly detection.
+
+### 💼 Associate Software Engineer – PeopleStrong  
+**2019 – 2022**  
+- Developed scalable microservices using **Java, Spring Boot, MySQL**  
+- Built UI modules in **Angular**  
+- Deployed on **AWS**, used **Docker, Kubernetes**, CI/CD with Jenkins  
+- Improved performance, implemented secure REST APIs
+
+---
+
+# 🚀 Featured Projects
+
+### 🩺 AI-Powered Healthcare System — *MERN + GPT-4o + Payments*
+- Smart symptom analysis, appointments, dashboards  
+- Stripe / Razorpay integration  
+- Cloudinary for media management  
+
+### 📦 Java Inventory Management System
+- RBAC authentication  
+- Inventory workflows for admin/manager/staff  
+
+### 💬 Real-Time Java Chat Application
+- WebSocket powered  
+- JavaFX desktop UI  
+
+### ❌⭕ AI Tic-Tac-Toe
+- Human vs AI  
+- Optimal move logic  
+
+### 🩸 Blood Bank Management System
+- Donor/recipient tracking  
+- Automated stock updates  
+
+---
+
+# 🏅 Achievements
+- 🥇 **CSUCI Programming Plot-a-thon – First Prize**  
+- 🥇 **Inter-NIT Table Tennis Champion**  
+- 🎮 **PUBG Mobile – Tier A Competitive Player**  
+- 📝 Research  
+  - Java Speech-to-Sign Language Converter  
+  - Optimized Sorting Algorithms in Java  
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sauravjh20&show_icons=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravjh20&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravjh20&layout=compact&theme=transparent" />
+
+</div>
+
+---
+
+# 🤝 Contact
+
+📧 Email: **sauravsdb91@gmail.com**  
+🔗 Portfolio: **https://sauravjh20.netlify.app**  
+🔗 LinkedIn: **https://www.linkedin.com/in/sauravjha20**  
+
+---
 
 <div align="center">
   
-  <h1>Hi 👋, I'm Saurav</h1>
-  <h3>MS in Computer Science @ CSU Channel Islands • Ex-SWE @ PeopleStrong</h3>
-
-  <p>
-    <a href="mailto:sauravsdb91@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/sauravjha20" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://sauravjh20.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-1f2933?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://sauravjh20.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio 2" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=sauravjh20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
+### ⭐ If you like this README, consider giving a star to my repositories!
 
 </div>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 MS in Computer Science @ **California State University Channel Islands** (GPA: 4.0/4.0)
-- 💼 3+ years as **Associate Software Engineer** @ PeopleStrong (Java / Spring Boot / Angular / AWS)
-- 🛡 Former **Aviation Protection Officer** at Perth Airport (security, risk assessment, anomaly detection)
-- 🧠 Interests: algorithms, cloud security, scalable systems, AI-powered products
-- 🎮 **Resident Advisor & Lead Student Assistant** + IT Student Assistant (Esports Lounge)
-- 🚀 Actively seeking **Summer 2025 internships** in SWE, Full-Stack, or Cloud Engineering
-- ⚡ Fun bits: hackathon winner, Inter NIT Table Tennis champion, Tier-A PUBG-M Esports player
-
----
-
-### 🛠 Tech Stack
-
-#### 💻 Languages & Databases
-`Java` • `Python` • `C/C++` • `JavaScript` • `HTML` • `CSS`  
-`MySQL` • `PostgreSQL` • `MongoDB` • `Redis`
-
-#### 🧩 Frameworks & Libraries
-`Spring Boot` • `Spring Cloud` • `Hibernate` • `JUnit` • `Mockito` • `Maven`  
-`Angular` • `React` • `Express.js` • `Node.js` • `JavaFX`
-
-#### ☁️ Platforms & Tools
-`AWS (EC2, S3, RDS)` • `Docker` • `Kubernetes` • `Jenkins` • `Git` • `Linux`  
-`CI/CD` • `Jira` • `Bitbucket`
-
----
-
-### 📚 What I’m Learning
-
-- Advanced **algorithms** & **operations research**
-- **Cloud security** & secure microservice design
-- **Pattern recognition** and AI-driven systems
-- Deeper **database systems** and performance tuning
-
----
-
-### 💼 Experience
-
-**Resident Advisor & Lead Student Assistant** – CSU Channel Islands  
-`April 2025 – Present · Camarillo, CA`  
-Helping build safe, inclusive, and engaging residential communities while mentoring students.
-
-**Information Technology Services – Student Assistant (Esports Lounge)** – CSUCI  
-`2025 – Present · Camarillo, CA`  
-- Troubleshooting hardware/software failures, AD auth issues, and network problems  
-- Performing OS updates, driver installs, and system monitoring for gaming workstations  
-
-**Aviation Protection Officer** – Perth Airport (ISS Facility Services)  
-`Jul 2023 – Dec 2024 · Perth, Australia`  
-- Applied security screening & risk assessment to keep airport operations safe and efficient  
-
-**Associate Software Engineer** – PeopleStrong  
-`Jun 2019 – Jun 2022 · Gurgaon, India`  
-- Built hiring workflows with **Angular**, **Spring Boot**, **Java**, and **MySQL**  
-- Designed secure microservices with **Spring Cloud** and **Spring Security**  
-- Implemented REST APIs with **Hibernate**, deployed on **AWS (EC2, S3)** with **Docker** & **Kubernetes**  
-- Automated deployments with **Jenkins CI/CD**, optimized performance & algorithms in production systems  
-
----
-
-### 🚀 Featured Projects
-
-> A few things I’ve been building & experimenting with:
-
-**🩺 AI Powered Healthcare System**  
-`MERN · GPT-4o-mini · Stripe · Razorpay · Cloudinary`  
-- AI-driven symptom triage with urgency recommendations  
-- Appointment booking, role-based dashboards, and secure payments  
-- Media storage & management via Cloudinary
-
-**📦 Java Inventory Management System**  
-`Java · Spring Boot · Hibernate · MySQL`  
-- Full CRUD inventory management with RBAC authentication  
-- Secure, role-level access workflows for admins, managers, and staff  
-
-**💬 Real-Time Chat Application**  
-`Java · JavaFX · WebSockets`  
-- Multi-client real-time messaging with bi-directional communication  
-- Desktop UI with JavaFX and custom chat features  
-
-**❌⭕ AI Tic-Tac-Toe Game**  
-`Java · OOP Design Patterns`  
-- Human vs AI and two-player modes  
-- AI with optimal-move logic using classic game strategies  
-
-**🩸 Blood Bank Management System**  
-`PHP · MySQL`  
-- Digitalized donor/recipient records and real-time stock management  
-- Automated inventory updates for donation and transfusion events  
-
-> 🔗 I’ll be adding more repositories and documentation as I polish these projects.
-
----
-
-### 🏅 Highlights & Achievements
-
-- 🥇 **CSUCI Programming Plot-a-thon – First Prize**  
-- 🥇 **Inter NIT Table Tennis Contest – 1st Prize**  
-- 🎮 **PUBG-M Esports Player – Tier A**  
-- 🗣 **Publications:**  
-  - *Java Speech-to-Sign Language System*  
-  - *Optimized Sorting Algorithms in Java*  
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sauravjh20&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=transparent"
-    alt="Saurav's GitHub Stats"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sauravjh20&theme=transparent"
-    alt="GitHub Streak"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravjh20&layout=compact&theme=transparent"
-    alt="Top Languages"
-    height="170"
-  />
-
-</div>
-
----
-
-### 🤝 Let’s Connect
-
-- 💼 LinkedIn: [linkedin.com/in/sauravjha20](https://www.linkedin.com/in/sauravjha20)  
-- 🌐 Portfolio: [sauravjh20.netlify.app](https://sauravjh20.netlify.app)  
-- ✉️ Email: [sauravsdb91@gmail.com](mailto:sauravsdb91@gmail.com)
-
-> If you like what you see, ⭐ some repos or reach out — I’m always up for collaborating on cool ideas!
