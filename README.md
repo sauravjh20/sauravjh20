@@ -133,20 +133,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sauravjh20&show_icons=true&theme=transparent&rank_icon=github" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravjh20&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravjh20&layout=compact&theme=transparent" />
-
-</div>
-
----
-
 # 🤝 Contact
 
 📧 Email: **sauravsdb91@gmail.com**  
