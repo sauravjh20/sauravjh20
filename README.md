@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
   
-  ## 👋 Hi, I'm **Kumar Saurav Jha**
-  ### 🧑‍💻 MS in Computer Science | Software Engineer | Cloud & Full-Stack Developer
+  ## Hi, I'm **Kumar Saurav Jha**
+  ### MS in Computer Science | Software Engineer | Cloud & Full-Stack Developer
 
   <img src="https://komarev.com/ghpvc/?username=sauravjh20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -17,18 +17,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 MS in Computer Science @ **California State University Channel Islands**
-- 💼 Former **Associate Software Engineer** @ PeopleStrong  
-- ☁️ Cloud + Full-Stack developer with strong backend expertise  
-- 🛠 Experienced in Java, Spring Boot, Angular, AWS, Docker, Kubernetes  
-- 🔥 Passionate about scalable systems, security, and AI-powered applications  
-- 🚀 Actively seeking **Summer 2025 SWE Internships**
+-  MS in Computer Science @ **California State University Channel Islands**
+-  Former **Associate Software Engineer** @ PeopleStrong  
+-  Cloud + Full-Stack developer with strong backend expertise  
+-  Experienced in Java, Spring Boot, Angular, AWS, Docker, Kubernetes  
+-  Passionate about Software Engineering, Cloud Architecture and scalable systems, security, and AI-powered applications  
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,7 +37,7 @@
 
 ---
 
-### 🧩 Frameworks & Libraries
+###  Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,7 +47,7 @@
 
 ---
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -56,7 +55,7 @@
 
 ---
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -66,7 +65,7 @@
 
 ---
 
-### 🔧 Tools & Others
+###  Tools & Others
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-5A9F33?style=for-the-badge&logo=java&logoColor=white)
@@ -76,50 +75,25 @@
 
 ---
 
-# 📚 Experience
+#  Experience
 
-### 🧑‍🏫 Resident Advisor – CSU Channel Islands  
+###  Resident Advisor – CSU Channel Islands  
 **2025 – Present**  
 - Mentoring students, building inclusive communities, resolving issues.
 
-### 🖥 IT Student Assistant – Esports Lounge (CSUCI)  
+###  IT Student Assistant – Esports Lounge (CSUCI)  
 - Hardware/software troubleshooting, system maintenance, authentication fixes.
 
-### 🛫 Aviation Protection Officer – Perth Airport  
+###  Aviation Protection Officer – Perth Airport  
 **2023 – 2024**  
 - Security screening, risk assessment, anomaly detection.
 
-### 💼 Associate Software Engineer – PeopleStrong  
+###  Associate Software Engineer – PeopleStrong  
 **2019 – 2022**  
 - Developed scalable microservices using **Java, Spring Boot, MySQL**  
 - Built UI modules in **Angular**  
 - Deployed on **AWS**, used **Docker, Kubernetes**, CI/CD with Jenkins  
 - Improved performance, implemented secure REST APIs
-
----
-
-# 🚀 Featured Projects
-
-### 🩺 AI-Powered Healthcare System — *MERN + GPT-4o + Payments*
-- Smart symptom analysis, appointments, dashboards  
-- Stripe / Razorpay integration  
-- Cloudinary for media management  
-
-### 📦 Java Inventory Management System
-- RBAC authentication  
-- Inventory workflows for admin/manager/staff  
-
-### 💬 Real-Time Java Chat Application
-- WebSocket powered  
-- JavaFX desktop UI  
-
-### ❌⭕ AI Tic-Tac-Toe
-- Human vs AI  
-- Optimal move logic  
-
-### 🩸 Blood Bank Management System
-- Donor/recipient tracking  
-- Automated stock updates  
 
 ---
 
